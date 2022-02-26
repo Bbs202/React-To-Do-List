@@ -8,7 +8,7 @@ import ToDoList from './Component/todo-list';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ToDoList />
+    <ToDoList  />
   </React.StrictMode>,
   document.getElementById('root')
 );
